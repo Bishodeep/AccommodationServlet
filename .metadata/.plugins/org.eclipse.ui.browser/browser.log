@@ -1,0 +1,22 @@
+
+Apr 09, 2020 19:42:26.34 NEW SESSION
+Apr 09, 2020 19:42:26.34 [9928:13504:0409/194226.345:ERROR:backend_impl.cc(1053)] Critical error found -8
+Apr 09, 2020 19:42:26.35 [9928:13504:0409/194226.345:ERROR:entry_impl.cc(1001)] Failed to save user data
+
+Apr 10, 2020 09:03:02.26 NEW SESSION
+Apr 10, 2020 09:03:02.26 [0410/090302.261:ERROR:settings.cc(320)] Settings magic is not 1129342067
+
+Apr 17, 2020 09:24:03.00 NEW SESSION
+Apr 17, 2020 09:24:03.00 [10360:5380:0417/092403.001:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 17, 2020 09:27:57.18 [10360:5380:0417/092757.188:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Apr 19, 2020 09:34:43.74 NEW SESSION
+Apr 19, 2020 09:34:43.74 [8436:11624:0419/093443.745:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2020 09:35:13.09 [8436:11624:0419/093513.090:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2020 09:35:57.42 [8436:11624:0419/093557.421:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2020 09:37:22.95 [8436:11624:0419/093722.949:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2020 10:59:27.30 [8436:11624:0419/105927.306:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 19, 2020 11:28:41.81 [8436:18892:0419/112841.818:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Apr 25, 2020 07:57:36.89 NEW SESSION
+Apr 25, 2020 07:57:36.89 [3144:22396:0425/075736.893:ERROR:browser_switcher_service.cc(238)] XXX Init()

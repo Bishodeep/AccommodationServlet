@@ -1,0 +1,16 @@
+1586362775216	Move 'resource' to 'WEB-INF'
+1586363860929	Delete element
+1586364067232	Rename compilation unit 'LoginVerification.java'
+1586437127220	Delete element
+1586437143270	Move 'welcome.jsp' to 'WebContent'
+1586437644757	Rename type 'Welcome'
+1586443741514	Move 'bcrypt-0.4.1.jar' to 'src'
+1586444116243	Move 'bcrypt-0.4.1.jar' to 'lib'
+1586445290982	Delete elements
+1586445304384	Delete element
+1586520888851	Rename type 'WelcomeAdmin'
+1586585085713	Move 'base.jsp' to 'tags'
+1586585270921	Delete element
+1586603962938	Rename type 'FilterServlet'
+1586606558500	Rename type 'AddRoomTypeDao'
+1586611037712	Rename type 'DeleteServlet'

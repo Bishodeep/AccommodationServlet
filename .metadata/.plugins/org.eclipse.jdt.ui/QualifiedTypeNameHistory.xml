@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="com.accomodation.loginverification.LoginVerificationDao"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="com.accomodation.dataconncetion.DatabaseConnection"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="at.favre.lib.crypto.bcrypt.BCrypt.HashData"/>
+    <fullyQualifiedTypeName name="at.favre.lib.crypto.bcrypt.BCrypt"/>
+    <fullyQualifiedTypeName name="java.security.MessageDigest"/>
+    <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
+    <fullyQualifiedTypeName name="com.accommodation.hashinghelper.HashingHelper"/>
+    <fullyQualifiedTypeName name="com.accommodation.hash.Hash"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="javax.naming.NameClassPair"/>
+    <fullyQualifiedTypeName name="com.accomodation.model.RegistrationModel"/>
+    <fullyQualifiedTypeName name="com.accomodation.registerdao.RegisterDao"/>
+    <fullyQualifiedTypeName name="com.accomodation.model.UserModel"/>
+    <fullyQualifiedTypeName name="com.accomodation.seed.SeedDataDao"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletContextListener"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletContextEvent"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="com.accommodation.filter.Filter"/>
+    <fullyQualifiedTypeName name="com.accomodation.roomdao.AddRoomTypeDao"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.accomodation.model.RoomTypeModel"/>
+    <fullyQualifiedTypeName name="com.accomodation.roomdao.RoomTypeDao"/>
+    <fullyQualifiedTypeName name="com.accomodation.roomdao.RoomDao"/>
+    <fullyQualifiedTypeName name="com.accomodation.model.RoomModel"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Accommodation Portal</title>
+</head>
+<body>
+	<%@include file='navbaradmin.jsp'%>
+	<div class="col-md-12 container " style="height: 700px">
+		<div class="card">
+			<div class="card-body">
+				<div class="list-part">
+					<h4 class="card-title">Edit Room Type</h4>
+
+					<div class="inner-list-part d-flex">
+						<form class="form-inline my-2 my-lg-0" action="welcomeadmin"
+							method="get">
+							<button class="btn btn-success my-2 my-sm-0" type="submit">Back</button>
+						</form>
+					</div>
+				</div>
+				<form action="editroomtype" method="post">
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+package com.accomodation.model;
+
+public class RoomModel {
+	 protected int id;
+	 protected int typeid;
+	    protected String typename;
+	    protected int available;
+}

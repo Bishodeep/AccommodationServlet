@@ -1,0 +1,33 @@
+package com.accomodation.admin;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.accommodation.filter.Filter;
+import com.accomodation.model.RoomTypeModel;
+import com.accomodation.roomdao.RoomTypeDao;
+
+public class EditRoomServlet {
+	public void doGet(HttpServletRequest request, HttpServletResponse response) 
+			  throws ServletException, IOException {
+		int id= Integer.parseInt(request.getParameter("id"));
+		RoomModel roomModel=RoomTypeDao.getRoomtypeId(id);
+		request.setAttribute("Room", roomTypeModel);
+		  Filter.getPage(request, response,"editroom").forward(request, response);
+	}
+	public void doPost(HttpServletRequest request, HttpServletResponse response) 
+			  throws ServletException, IOException {
+		String roomtype= request.getParameter("type");
+		int roomavailable=Integer.parseInt(request.getParameter("available"));
+		int roomid=Integer.parseInt(request.getParameter("id"));
+		RoomModel roomTypeModel = new RoomTypeModel(roomid,roomtype, roomavailable);
+		if(RoomDao.inserEditRoomtype(roomTypeModel)) {
+			response.sendRedirect("welcomeadmin");
+		}else {
+			response.sendRedirect("editroom");
+		}
+	}
+}
