@@ -40,6 +40,6 @@
     <fullyQualifiedTypeName name="com.accomodation.roomdao.RoomDao"/>
     <fullyQualifiedTypeName name="com.accomodation.model.RoomModel"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 </qualifiedTypeNameHistroy>

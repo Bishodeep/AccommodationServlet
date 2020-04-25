@@ -20,3 +20,4 @@ Apr 19, 2020 11:28:41.81 [8436:18892:0419/112841.818:ERROR:gcm_channel_status_re
 
 Apr 25, 2020 07:57:36.89 NEW SESSION
 Apr 25, 2020 07:57:36.89 [3144:22396:0425/075736.893:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 25, 2020 08:35:11.45 [3144:8388:0425/083511.454:ERROR:socket_stream.cc(218)] Closing stream with result -2
